@@ -28,7 +28,7 @@ Type `?, help` to view commands provided by this reverse shell.
 
 ## Development
 
-See [Contributing](https://github.com/js-on/WeaponizeCrystal#contributing)
+See [Contributing](https://github.com/js-on/WeaponizeCrystal/tree/main/reverse_shell#Contributing)
 
 ## Contributing
 
