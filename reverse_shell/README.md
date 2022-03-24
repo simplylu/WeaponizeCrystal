@@ -8,6 +8,8 @@ Simple reverse shell using `Sockets`, `Process` and `File`.
 git clone https://github.com/js-on.de/WeaponizeCrystal.git
 cd WeaponizeCrystal/reverse_shell
 shards install
+# compile
+crystal build --single-module src/reverse_shell.cr
 ```
 
 ## Usage
