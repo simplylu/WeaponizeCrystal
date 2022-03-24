@@ -1,0 +1,17 @@
+name: reverse_shell
+version: 0.1.0
+
+authors:
+  - js-on <jakobs@js-on.de>
+
+targets:
+  reverse_shell:
+    main: src/reverse_shell.cr
+
+crystal: 1.3.2
+
+license: MIT
+
+dependencies:
+  crolorama:
+    github: js-on/crolorama

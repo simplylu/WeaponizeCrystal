@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  crolorama:
+    git: https://github.com/js-on/crolorama.git
+    version: 0.1.0+git.commit.fb6b5496cafb0376c9ccc25ced06b83592c1f610
+

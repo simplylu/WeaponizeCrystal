@@ -6,6 +6,7 @@ WeaponizeCrystal
 ## Working examples
 | Folder | Description | OS |
 | ------ | ----------- | -- |
+| [reverse_shell](https://github.com/js-on/WeaponizeCrystal/blob/master/reverse_shell/) | reverse shell with the aim of simple use | *nix |
 | ... | ... | ...
 
 
