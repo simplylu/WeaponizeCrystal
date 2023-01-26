@@ -7,6 +7,7 @@ WeaponizeCrystal
 | Folder | Description | OS |
 | ------ | ----------- | -- |
 | [reverse_shell](https://github.com/js-on/WeaponizeCrystal/blob/master/reverse_shell/) | reverse shell with the aim of simple use | *nix |
+| [shellcode_loader](https://github.com/js-on/WeaponizeCrystal/tree/main/shellcode_loader) | simple shellcode loader; contributed by @[lap1nou](https://github.com/lap1nou)| *nix |
 | ... | ... | ...
 
 
