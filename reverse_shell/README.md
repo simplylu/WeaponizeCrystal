@@ -34,7 +34,7 @@ See [Contributing](https://github.com/js-on/WeaponizeCrystal/tree/main/reverse_s
 
 ## Contributing
 
-1. Fork it (<https://github.com/js-on/reverse_shell/fork>)
+1. Fork it (<https://github.com/js-on/WeaponizeCrystal/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
